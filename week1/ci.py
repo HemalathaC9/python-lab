@@ -1,3 +1,4 @@
+Compound Interest
 p=int(input("Enter principle"))
 t=int(input("enter time"))
 r=int(input("Enter time"))
