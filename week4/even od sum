@@ -35,13 +35,13 @@ l3=createlist(l3,n3)
 print(l3)
 
 
-
 es1=sum(l1)
 print(es1)
 es2=sum(l2)
 print(es2)
 es3=sum(l3)
 print(es3)
+
 
 os1=osum(l1)
 print(os1)
